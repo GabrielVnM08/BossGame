@@ -1,4 +1,4 @@
-# -Game-
+# Boss Game
 Projeto para criação de um web game básico.
 
 # Voltado para o aprendizado do 1° periodo do IFPE, na matéria de LPED
